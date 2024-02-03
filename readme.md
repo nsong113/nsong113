@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Jiu%20Song&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient6&height=300&section=header&text=Frontend%20Dev&fontSize=90)
 
 ### Hi there 👋
 
