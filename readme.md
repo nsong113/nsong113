@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-**nsong113** is a ✨ _special_ ✨ repository.
+✨ _special_ ✨ gitHub.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JS, TSX, React
