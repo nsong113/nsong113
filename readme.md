@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-✨ _special_ ✨ gitHub.
+This is a ✨ _special_ ✨ gitHub.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JS, TSX, React
