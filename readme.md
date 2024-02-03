@@ -10,5 +10,5 @@
 - 📫 How to reach me: nsong113@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🌈 My Blog: [<a href="https://nsong113.tistory.com/category">]
+- 🌈 Go to : [<a href="https://nsong113.tistory.com/category">My Blog</a>]
 
