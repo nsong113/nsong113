@@ -16,14 +16,7 @@ This is a ✨ _special_ ✨ gitHub.
     <img src="https://capsule-render.vercel.app/api?type=shark&color=fda5a5&height=120&text=&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div align= "center"> 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77967&background=DDFFB500&width=435&lines=This+is+a+%E2%9C%A8+_special_+%E2%9C%A8+repository.)](https://git.io/typing-svg)
- <div>:heart:</div> 
- <div>:yellow_heart:</div> 
-  <div>:green_heart:</div> 
-   <div>:blue_heart:</div> 
-    <div>:purple_heart:</div> 
-
-        
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77967&background=DDFFB500&width=435&lines=This+is+a+%E2%9C%A8+_special_+%E2%9C%A8+repository.)](https://git.io/typing-svg) 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </li>📫 How to reach me: nsong113@gmail.com</li><br/></li>🌈 See my tech blog : My Blog </div> 
     </div>
     <div align= "center">
